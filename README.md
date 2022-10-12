@@ -8,3 +8,4 @@ jquery and moment was used to make this project functional and effective.
 
 readme.md ![screenshot](workDay.png)
 
+https://mfarrell23.github.io/workScheduler/
